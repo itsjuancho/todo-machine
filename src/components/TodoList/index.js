@@ -7,7 +7,7 @@ function TodoList(props) {
             <ul>
                 {props.children}
             </ul>
-            {props.countTodos === 0 ? <p className="TodoList-alert">No se han encontrado Todo's para tu búsqueda</p> : ''}
+            {props.countTodos === 0 ? <p className="TodoList-alert">No se han encontrado Todo's</p> : ''}
         </section>
     )
 }
