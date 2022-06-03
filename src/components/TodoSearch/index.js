@@ -6,7 +6,6 @@ function TodoSearch() {
     const {valueSearch, setValueSearch} = useContext(TodoContext);
 
     const onSearchValueChange = (evt) => {
-        console.log(evt.target.value);
         setValueSearch(evt.target.value)
     }
 
