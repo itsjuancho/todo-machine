@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo Machine con React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App sencilla para almacenar diferentes tipos de tareas, pudiendo eliminarlas, editarlas y buscarlas.
 
 ## Available Scripts
 
