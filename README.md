@@ -1,6 +1,6 @@
 # Todo Machine con React.js
 
-Hecho con ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 App sencilla para almacenar diferentes tipos de tareas, pudiendo eliminarlas, editarlas y buscarlas.
 
