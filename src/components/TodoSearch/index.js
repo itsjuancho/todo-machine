@@ -6,13 +6,14 @@ function TodoSearch() {
     const {valueSearch, setValueSearch} = useContext(TodoContext);
 
     const onSearchValueChange = (evt) => {
+        console.log(evt.target.value);
         setValueSearch(evt.target.value)
     }
 
     return (
         <input 
             className="TodoSearch" 
-            placeholder="Inserte su búsqueda..."
+            placeholder="Busque aquí..."
             value={valueSearch}
             onChange={onSearchValueChange}
         />
