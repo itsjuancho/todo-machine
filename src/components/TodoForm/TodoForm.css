@@ -18,13 +18,13 @@ label {
 input {
     background-color: #F9FBFC;
     border: 2px, solid #202329;
-    border-radius: 2px;
+    border-radius: 15px;
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
     color: #1E1E1F;
     font-size: 20px;
     text-align: center;
     padding: 12px;
-    height: 96px;
+    height: 35px;
     width: calc(100%-25px);
 }
 
@@ -35,13 +35,13 @@ input::placeholder {
 }
 
 input:focus {
-    outline-color: #61DAFA;
+    outline-color: #3874d6;
 }
 
 .TodoForm-buttonContainer {
     margin-top: 14px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     width: 100%;
 }
@@ -52,9 +52,9 @@ input:focus {
     font-size: 20px;
     color: #202329;
     font-weight: 400;
-    width: 120px;
-    height: 48px;
-    border-radius: 2px;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
     border: none;
     font-family: 'Montserrat';
 }
@@ -65,5 +65,6 @@ input:focus {
 }
 
 .TodoForm-button-cancel {
-    background: transparent;
+    background: #c95858;
+    color: #fff;
 }
