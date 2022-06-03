@@ -23,4 +23,4 @@ Para modificar la ruta de despliegue, se deberá de modificar el atributo 'homep
 
 ## Aclaraciones
 
-URL del despliegue: [https://itsjuancho.github.io/todo-machine/](itsjuancho.github.io/todo-machine)
+URL del despliegue: [itsjuancho.github.io/todo-machine/](https://itsjuancho.github.io/todo-machine)
